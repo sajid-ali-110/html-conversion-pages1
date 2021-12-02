@@ -1,0 +1,267 @@
+#scroll{
+	   bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #555;
+    color: #fff;
+}
+.home-img2{
+	filter: brightness(70%);
+	background-image: url(../img/cons/cons5.jpg);
+}
+.foy{
+	font-size: 10px;
+}
+.home-img2:hover{
+	filter: brightness(150%);
+}
+#menu{
+	list-style: none;
+	margin-left: 80px;
+	padding: 0;
+}#menu1{
+	list-style: none;
+	padding: 0;
+}
+.menu{
+	list-style: none;
+	
+
+}
+.carousel-inner{
+        height: 500px;
+    }
+ .carousel-caption{
+ 	width: 30%;
+ 	position:relative;
+ 	top: -300px;
+ 	  padding-top: 0px; 
+ 	  left:60px;
+    padding-bottom:0px ;
+ }
+.menu li{
+	display: inline-block;
+	padding: 5px;
+}
+.menu li a{
+	 color: gray;
+    text-decoration: none;
+   
+}
+#menu li{
+	display: inline-block;
+	padding: 5px;
+	
+}
+#menu1 li{
+display: inline-block;
+	padding: 5px;
+}
+#menu ul, li{
+	/*border-right: 1px solid lightgray;*/
+}
+.btn-1{
+	outline: none;
+	border:none;
+	color: gray;
+	background-color: white
+}
+.call{
+	font-size: 13px;
+	color: #ff0018;
+}
+.head-img{
+	padding-left: 80px;
+}
+.homemenu{
+	list-style: none;
+	text-align: center;
+}
+
+.homemenu li{
+	display: inline-block;
+	padding: 12px;
+	position: relative;
+}
+.homemenu li a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.homemenu li a:hover{
+	color: #ff7f50;
+	transition: 0.30s;
+}
+.homemenu li a:active{
+	color: #ff7f50;
+	transition: 0.30s;
+}
+#investor{
+	background-color: #f3f3f3;
+}
+.investor-heading{
+	margin-top:  20px;
+	margin-left: 55px;
+	color: #3e3939;
+
+}
+.investor-topic{
+	margin-left: 55px;
+}
+.inves-logo{
+	margin-left: 10px;
+} 
+.sub-topic{
+	font-size: 25px;
+}
+.main-heading{
+	color: gray;
+	font-size: 15px;
+}
+.head-1{
+	color: lightgray;
+	font-weight: bold;
+}
+#head{
+	background-color: #f1f2f6;
+}
+.main-head{
+	font-size: 30px;
+	color: gray;
+	font-weight: bolder;
+}
+.sub1{
+	background-color: #ff7f50;
+}
+.sub-topic a{
+	color: white;
+}
+.contact{
+	font-size: 20px;
+}
+.main-footer{
+	padding-top: 20px 0px;
+	color: white;
+}
+.wed-item{
+	/*list-style: none;*/
+	padding: 0px;
+	margin: 0px;
+}
+.wed-item li{
+	margin-bottom: 3px;
+}
+/*.wed-item li::before{
+	content: "\f101";
+	font-family: FontAwesome;
+	padding-right: 5px;
+}*/
+.wed-item li a{
+	text-decoration: none;
+	color: white;
+}
+.wed-item li a:hover{
+	color: red;
+	transition: 0.30s;
+}
+.icon  a{
+	text-decoration: none;
+	color: white;
+
+}
+.icon  a:hover{
+	color: red;
+}
+.footer-end{
+	background-color: #1e272e;
+	color: lightgray;
+	/*padding: 40px;*/
+}.link a{
+	text-decoration: none;
+	color: lightgray; 
+}
+.link a:hover{
+	color: red;
+	transition: 0.30s;
+}
+#home-1{
+	background-color:#f1f2f6;
+}
+#home-1 h5{
+	font-weight: bolder;
+}
+.home-bot{
+	margin-left: 280px;
+}
+.btn-one{
+	border-radius: 30px;
+	background-color: #ff7f50;
+	font-weight: bolder;
+}
+.btn-two{
+	background-color: #fd5912;
+	font-weight: bolder;
+}
+.home-img{
+	border-radius: 5px;
+	width: 100%;
+}
+.img2{
+	position: relative;}
+.esteem{
+	background-color: #f1f2f6;
+
+}
+.hover-img:hover{
+	 filter: brightness(50%);
+	 transition: 0.30s;
+}
+.counter{
+	font-size: 45px;
+	color: lightgray;
+}
+.sec-what{
+	background-image: url(../img/cons/con6.jpeg) ;
+	filter: brightness(80%);
+	color: white;
+}
+.sec-2{
+	background-color:#f8f9fa ;
+
+
+}
+.img-three{
+	width: 50%;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#slider {
+	height: 500px;
+}
+#slider img{
+	background-position: center;
+	background-size: cover;
+}
+.img-four{
+background-image: url(../img/cons/con8.jpeg);
+background-position: top;
+background-size: cover; 
+}
+.five{
+	filter: grayscale(100%);
+}
+.five:hover{
+	filter: blur(0px);
+	/*border:5px solid red;*/
+}
+.btn-six{
+	border:2px solid black;
+	font-weight: bold;
+}
+.home-img2{
+	background-image: url(../img/cons/cons5.jpg);
+	height: 400px;
+}
+.comet{
+	border-radius: 50%;
+}
